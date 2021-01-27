@@ -33,8 +33,8 @@ Linux, PHPStorm, WebStorm, DataGrip, Android Studio
 
 ### Projects
 <p>
-<a href="https://github.com/fernandowobeto/car_seller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=car_seller&theme=dark&layout=compact" />
+<a href="https://github.com/fernandowobeto/car-seller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=car-seller&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/fernandowobeto/nodejs-express-api-boilerplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=nodejs-express-api-boilerplate&theme=dark&layout=compact" />
