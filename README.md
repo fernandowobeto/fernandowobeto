@@ -31,7 +31,7 @@ Linux, PHPStorm, WebStorm, DataGrip, Android Studio
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernandowobeto&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-### Projects I'm work on
+### Projects
 <p>
 <a href="https://github.com/fernandowobeto/car_seller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=car_seller&theme=dark&layout=compact" />
