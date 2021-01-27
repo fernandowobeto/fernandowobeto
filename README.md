@@ -1,9 +1,7 @@
 ### Hi! 👋 How are you?
 I'm Fernando and i'm full stack web / app developer with more then 15 years experience.
 
-<p align="center">
-<br><img src="https://github.com/fernandowobeto/fernandowobeto/blob/master/hadder.gif" width="280px"><br><br>
-</p>
+<img align="right" src="https://github.com/fernandowobeto/fernandowobeto/blob/main/me-developer.gif?raw=true" width="280px">
 
 - 🔭 I’m currently working with Shell Script, Go, PHP, CSS, HTML, PostgreSQL. Exploring new technologies and developing software solutions to tech problems.
 - 🌱 I’m currently learning Go, Dart, Flutter and improve my skill with nodejs and express to develop APIs.
