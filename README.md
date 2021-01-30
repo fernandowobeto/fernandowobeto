@@ -50,7 +50,7 @@ Linux, PHPStorm, WebStorm, DataGrip, Android Studio
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandowobeto&layout=compact" alt="fernandowobeto" />
 
 
-### Connect with Me
+### Feel free to contact me
 <p>
 <a href="https://www.fernandowobeto.com"><img src="https://img.shields.io/badge/-fernandowobeto.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/fernandowobeto"><img src="https://img.shields.io/badge/-Fernando%20Wobeto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
