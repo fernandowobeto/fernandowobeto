@@ -3,7 +3,7 @@ I'm Fernando and i'm full stack web / app developer with more then 15 years expe
 
 <img align="right" src="https://github.com/fernandowobeto/fernandowobeto/blob/main/me-developer.gif?raw=true" width="280px">
 
-- 🔭 I’m currently working with Shell Script, Go, PHP, CSS, HTML, PostgreSQL. Exploring new technologies and developing software solutions to tech problems.
+- 🔭 I’m currently improving my english and working with Shell Script, Go, PHP, CSS, HTML, Javascript, VueJs and PostgreSQL. Exploring new technologies and developing software solutions to tech problems.
 - 🌱 I’m currently learning Go, Dart, Flutter and improve my skill with nodejs and express to develop APIs.
 - 👯 I’m looking to collaborate on open source project, material translate, good practice on code development.
 
