@@ -48,6 +48,9 @@ Clean Code, Clean Architecture, Domain-Driven Design, Refactoring
 <a href="https://github.com/fernandowobeto/docker-webserver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=docker-webserver&theme=dark&layout=compact" />
 </a>
+<a href="https://github.com/fernandowobeto/postgres-trigger-logs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=postgres-trigger-logs&theme=dark&layout=compact" />
+</a>
 </p>
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandowobeto&layout=compact" alt="fernandowobeto" />
