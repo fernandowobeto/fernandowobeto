@@ -7,10 +7,10 @@ I'm Fernando and i'm full stack web / app developer with more then 15 years expe
 - 🌱 I’m currently learning Go, Dart, Flutter and improve my english and skill with nodejs and express to develop APIs.
 - 👯 I’m looking to collaborate on open source project, material translate, good practice on code development.
 
-### LANGUAGES
+### Languages
 PHP / Javascript / Dart / HTML / CSS / Golang / Shell Script / Python
 
-### DATABASES
+### Databases
 MySQL, PostgreSQL, MongoDB
 
 ### Technologies
