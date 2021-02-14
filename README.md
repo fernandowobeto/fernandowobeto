@@ -22,6 +22,9 @@ Laravel / CodeIgniter / ExpressJS / Bootstrap / Flutter / jQuery / VueJS
 ### OS & IDE
 Linux, PHPStorm, WebStorm, DataGrip, Android Studio
 
+### Books
+Clean Code, Clean Architecture, Domain-Driven Design, Refactoring
+
 ### Experience
 * Multi24h - Current
 
