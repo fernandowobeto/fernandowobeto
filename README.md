@@ -36,6 +36,12 @@ Clean Code, Clean Architecture, Domain-Driven Design, Refactoring
 
 ### Projects
 <p>
+<a href="https://github.com/fernandowobeto/email-blur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=email-blur&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/fernandowobeto/google-recaptcha-checkbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=google-recaptcha-checkbox&theme=dark&layout=compact" />
+</a>
 <a href="https://github.com/fernandowobeto/car-seller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandowobeto&repo=car-seller&theme=dark&layout=compact" />
 </a>
