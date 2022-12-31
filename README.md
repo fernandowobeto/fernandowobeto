@@ -17,7 +17,7 @@ MySQL, PostgreSQL, MongoDB
 Apache / NGINX / Git / Github / Gitlab / NodeJS / Rest API / GOOGLE API's / AWS / Docker
 
 ### Frameworks / Libraries / UI Kit
-Laravel / CodeIgniter / ExpressJS / Bootstrap / Flutter / jQuery / VueJS
+Laravel / InertiaJS / CodeIgniter / ExpressJS / Bootstrap / Flutter / jQuery / VueJS
 
 ### OS & IDE
 Linux, PHPStorm, WebStorm, DataGrip, Android Studio
